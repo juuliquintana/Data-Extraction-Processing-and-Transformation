@@ -38,6 +38,7 @@ Steps:
 
 ### Data Preparation and Cleaning
 After converting the data into DataFrames, the following preparation and cleaning steps were performed:
+
     - Removing null values: Null or missing values were removed or replaced.
     - Data type conversion: Ensured appropriate data types for each column.
 
