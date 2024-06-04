@@ -7,8 +7,8 @@ This project aims to extract, process, and transform data from different dataset
 
 ### Prerequisites
 To run this project, you will need to have the following installed:
-    - Python 3.x
-    - Python libraries: pandas, numpy, re, zipfile, os
+- Python 3.x
+- Python libraries: pandas, numpy, re, zipfile, os
 ### Datasets
 #### 1. *Adult* Dataset
 The Adult dataset includes two text files (data and names).
@@ -39,7 +39,7 @@ Steps:
 ### Data Preparation and Cleaning
 After converting the data into DataFrames, the following preparation and cleaning steps were performed:
 
-    - Removing null values: Null or missing values were removed or replaced.
-    - Data type conversion: Ensured appropriate data types for each column.
+- Removing null values: Null or missing values were removed or replaced.
+- Data type conversion: Ensured appropriate data types for each column.
 
 
